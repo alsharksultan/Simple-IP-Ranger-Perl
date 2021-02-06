@@ -25,7 +25,7 @@ $ag = LWP::UserAgent->new();
 use MIME::Base64;
 use WWW::Mechanize;
 use threads;
-system("title Ip Ranger Null");
+system("title Ip Ranger TaMere");
 if ($^O =~ /MSWin32/) {system("cls"); }else { system("clear"); }    print color('reset');
 print color('red');
 $logo="
